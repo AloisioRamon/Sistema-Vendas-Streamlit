@@ -76,7 +76,7 @@ Menu lateral com as opções:
 🎨 Design personalizado com CSS/Bootstrap
 
 👨‍💻 Autor
-Desenvolvido por [Seu Nome] ✨
-📧 Contato: seuemail@exemplo.com
-🔗 LinkedIn | GitHub
+Desenvolvido por ramon araujo ✨
+📧 Contato: ramongdf@gmail.com
+🔗 www.linkedin.com/in/ramon-araujo-873706240/ | github.com/AloisioRamon
 
